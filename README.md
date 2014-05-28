@@ -3,7 +3,7 @@
 This plugin can be triggered to enable monitoring on a file open in a Vim buffer. The buffer should then automatically refresh whenever the file is changed without requiring user input.
 
 #Installation
----
+
 ## Install using Pathogen 
 
 (These instructions are based on iVantage's current system, which uses Windows and gVim. For Linux change /vimfiles/ to /.vim/)
@@ -41,7 +41,7 @@ The plugin can also be installed by downloading the zip file and copying the two
  :source ~/fileRefresh.vim
  :source ~/killRefresh.vim
  ```
----
+
 #Usage
 
 When open to the buffer you wish to monitor, simply use 
