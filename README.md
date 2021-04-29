@@ -2,7 +2,7 @@
 
 This plugin can be triggered to enable monitoring on a file open in a Vim buffer. The buffer should then automatically refresh whenever the file is changed without requiring user input.
 
-#Installation
+# Installation
 
 ## Install using Pathogen 
 
@@ -42,7 +42,7 @@ The plugin can also be installed by downloading the zip file and copying the two
  :source ~/killRefresh.vim
  ```
 
-#Usage
+# Usage
 
 When open to the buffer you wish to monitor, simply use 
 ```vim
